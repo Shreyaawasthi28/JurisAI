@@ -1,0 +1,7 @@
+django
+spacy
+nltk
+transformers
+torch
+pytesseract
+pillow
